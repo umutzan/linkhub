@@ -12,7 +12,7 @@ img{
   height: 96px;
   width: 96px;
 }
-@media(min-wihth:768) {
+@media screen and (min-wihth:768) {
 
   .button{
     background-color: white;
@@ -36,7 +36,7 @@ img{
   }
 }
 
-@media(max-wihth:767) {
+@media screen and (max-wihth:767) {
 
   .button{
     background-color: white;
