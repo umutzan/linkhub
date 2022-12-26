@@ -12,6 +12,8 @@ img{
   height: 96px;
   width: 96px;
 }
+@media(min-wihth:768) {
+
   .button{
     background-color: white;
     color: black;
@@ -22,7 +24,22 @@ img{
     box-shadow: 0 8px 2px 0 rgba(0,0,0,0.24);
   
   }
+}
+
+@media(max-wihth:767) {
+
+  .button{
+    background-color: white;
+    color: black;
+    border: 1px solid #000000;
+    border-radius: 100px;
+    padding: 15px 40px;
+    width: 90%;
+    box-shadow: 0 8px 2px 0 rgba(0,0,0,0.24);
   
+  }
+}
+
   .button:hover {
     box-shadow: 0 5px 2px 0 rgba(0,0,0,0.24);
     transform: translateY(3px);
