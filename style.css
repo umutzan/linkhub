@@ -9,19 +9,22 @@ div{
   
 img{
   border-radius: 50%;
-  height: 96px;
-  width: 96px;
+  height: 106px;
+  width: 106px;
 }
 
 
   .button{
+    font-weight: 600;
+    font-size: 13px;
     background-color: white;
     color: black;
     border: 1px solid #000000;
     border-radius: 15px;
     padding: 15px 40px;
-    max-width: 650;
+    max-width: 680px;
     width: 95%;
+    height: 56px;
     box-shadow: 0 8px 2px 0 rgba(0,0,0,0.24);
   
   }
