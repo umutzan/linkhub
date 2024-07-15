@@ -18,11 +18,19 @@ h2 {
   padding: -1px;
 }
 
+
+
+.container {
+  display: flex;
+}
+
+
+
 .button {
   font-weight: 600;
   font-size: 13px;
   background-color: #00DFA2;
-  
+
   color: #000;
   border: 0px solid white;
   border-radius: 15px;
@@ -51,5 +59,4 @@ h2 {
 a {
   color: black;
   text-decoration: none;
-
 }
