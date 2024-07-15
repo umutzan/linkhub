@@ -1,5 +1,3 @@
-# Linkhub
+# my basic website
 
-It'a basic linkhub
-
-Site => [https://links.umutzan.dev/](https://links.umutzan.dev)
+Site => [https://www.umutzan.dev/](https://links.umutzan.dev)
