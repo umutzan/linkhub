@@ -18,14 +18,6 @@ h2 {
   padding: -1px;
 }
 
-
-
-.container {
-  display: flex;
-}
-
-
-
 .button {
   font-weight: 600;
   font-size: 13px;
@@ -52,9 +44,6 @@ h2 {
   box-shadow: 0 3px 2px 0 rgba(0, 0, 0, 0.24);
   transform: translateY(6px);
 }
-
-
-
 
 a {
   color: black;
